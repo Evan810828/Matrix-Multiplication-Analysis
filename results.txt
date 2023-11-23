@@ -1,0 +1,23 @@
+# 500
+Exe time of i, j, k = 0.30 sec
+Exe time of i, k, j = 0.25 sec
+Exe time of j, i, k = 0.30 sec
+Exe time of j, k, i = 0.39 sec
+Exe time of k, i, j = 0.26 sec
+Exe time of k, j, i = 0.39 sec
+
+# 1000
+Exe time of i, j, k = 3.67 sec
+Exe time of i, k, j = 2.11 sec
+Exe time of j, i, k = 2.57 sec
+Exe time of j, k, i = 3.42 sec
+Exe time of k, i, j = 2.12 sec
+Exe time of k, j, i = 3.26 sec
+
+# 2000
+Exe time of i, j, k = 41.13 sec
+Exe time of i, k, j = 16.84 sec
+Exe time of j, i, k = 22.97 sec
+Exe time of j, k, i = 47.99 sec
+Exe time of k, i, j = 17.09 sec
+Exe time of k, j, i = 46.51 sec
